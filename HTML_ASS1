@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <body>
+  	<nav>
+     <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Projects</a></li>
+     </ul>   
+    </nav>
+
+    <nav>
+      <h1>HOME</h1>
+      <p>Physics and technology help innovators when used together.</p>
+      <h2>ABOUT</h2>
+      <p>We create innovative projects incorporating technology to enhance the physics innovative projects
+        to help make the world a better place.<a href="http://www.sciencefairadventure.com/Physics.aspx">Science Projects</a>
+      </p>
+      <h3>PROJECTS</h3>
+      <ul>
+        <li>Additive colours</li>
+        <li>Balloon rocket car</li>
+        <li>build an electromagnet</li>
+      </ul>
+    </nav>
+  </body>
+</html>
